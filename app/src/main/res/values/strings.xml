@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Syllabus Alpha</string>
+    <string name="large_text">OCR text</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="bugs">
+        <item>Bug</item>
+        <item>Error</item>
+        <item>Did not find my professor!</item>
+        <item>Did not find my important dates!</item>
+        <item>This app just sucks!</item>
+        <item>App is amazing plz take my money!</item>
+    </string-array>
+</resources>
